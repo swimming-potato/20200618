@@ -344,7 +344,7 @@ The custom rule text should now look similar to the following:
 3.  Select **Sign in to one of the following sites** , and then click **Sign in**
 4.  Enter the following values on the login page:
 
-*   **User name:** Enter student@cloudemo.local
+*   **User name:** Enter studentX@cloudemo.local
 *   **Password:** Enter the `!Trudnehaslo123`
 
 You are now signed in to the AWS Management Console as **AWS-studnetX_RO/studentX@cloudemo.local** .
